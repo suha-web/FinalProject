@@ -98,3 +98,12 @@ function mouseWheel(event) {
 
   return false;
 }
+
+
+function mouseDragged() {
+  let dx = mouseX - pmouseX;
+  let dy = mouseY - pmouseY;
+
+  worldOffsetX -= dx / scaleFactor;
+  worldOffsetY -= dy / scaleFactor;
+}
