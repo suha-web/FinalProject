@@ -13,8 +13,7 @@ https://editor.p5js.org/micahtindalebusiness/sketches/8Z7eJvYqO
 
 https://stackoverflow.com/questions/57131714/create-zoom-effect-with-p5-js
 
-
-
+\
 
 https://theconversation.com/new-research-shows-people-cant-tell-the-difference-between-human-and-ai-poetry-and-even-prefer-the-latter-what-gives-243593
 
