@@ -34,3 +34,9 @@ https://baronfig.com/en-gb/blogs/blog/the-history-of-poetry-from-ancient-verses-
 https://www.creative-generation.org/blogs/why-change-why-poetry-poetry-is-the-language-of-the-people
 
 https://erc.europa.eu/news-events/news/scientists-urgent-quest-explain-consciousness-ai-gathers-pace
+
+\\
+
+As generative AI systems become increasingly capable of reproducing art, writing, and poetry, the ability for humans to distinguish between the two becomes less clear. This project aims to explore the evolving relationship between humans and artifically crafted art, with a focus on AI and its growing place in creative spaces. The rapid development of AI has raised critical questions about the historical functions art has had for humanity. 
+
+If art has functioned
